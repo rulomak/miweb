@@ -2,4 +2,6 @@
 
 lista = ['lista', 'losta']
 
-nombre = raul
+nombre = "raul"
+
+user = "rulomak"
