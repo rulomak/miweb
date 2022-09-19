@@ -1,4 +1,5 @@
 # mi primer programa 
 
-lista = ['lista', 'losta', 'lusta']
+lista = ['lista', 'losta']
 
+nombre = raul
